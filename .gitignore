@@ -1,0 +1,6 @@
+# ignoring some of the stuff in je-vs2015-resumed
+
+./je-vs2015-resumed/Resumed/*.db
+./je-vs2015-resumed/Resumed/*.*
+*.tlog
+*.idb
