@@ -1,0 +1,15 @@
+John Doe	300
+John Doe	600
+Chris Walker	2000
+Chris Walker	6000
+Chris Walker	1200
+Jordan Gross	1000
+Eric Wells	4000
+Eric Wells	500
+Lyla Moss	2000
+Lyla Moss	8000
+Lyla Moss	7000
+Lyla Moss	5000
+Kapena Sing	800
+Manny Figurea	1000
+LaJon Jordan	2000
