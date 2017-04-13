@@ -1,3 +1,4 @@
+function [Lines] = f_grab_data( filename, optionKeepLines )
 
 
 % 1 - Open OldSales.txt
@@ -11,11 +12,11 @@ clear all;
 clc;
 
 % f is the variable associated with the file "OldSales.txt"
-f = fopen( "OldSales.txt", "r" );
-optionKeepLines = true;
+f = fopen( filename, "r" );
+
 Lines = {};
 if( f == -1 )
-  printf( "please make sure OldSales.txt is in the current directory\r\n" );
+  printf( "please make sure %s is in the current directory\r\n", filename );
   
 else
   
@@ -46,5 +47,3 @@ else
   
 
 end
-
-  
